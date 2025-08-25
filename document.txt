@@ -1,0 +1,14 @@
+WP TERALEADS PROJECT
+
+• This is a WordPress website with custom plugins for Google reviews and dental services made by origin builder.
+• Uses SiteOrigin Page Builder for easy layout creation and customization.
+• Has a Google Reviews widget plugin that displays customer reviews in same format as given in the task.
+• Includes a dental implant services page with some valid images and dummy content n prices.
+• All plugins are properly installed and configured for immediate use.
+• Sample dental images are included in the uploads folder.
+• Access the website through your WordPress URL
+http://[::]:8000/index.php/google-review/
+http://[::]:8000/index.php/dental-implant-services/
+• Reference screenshots show how the pages should look when properly set up and check readme.md to setup the project
+
+For more details, see the README.md file.
