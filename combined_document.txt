@@ -47,3 +47,5 @@ This submission includes two complete projects:
 2. WP TERALEADS PROJECT - A WordPress website with custom plugins and dental services
 
 Both projects are fully functional and ready for testing. Please refer to the respective README.md files for setup and execution instructions.
+
+
