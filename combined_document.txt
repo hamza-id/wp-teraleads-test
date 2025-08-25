@@ -1,0 +1,49 @@
+HAMZA MAC - PROJECT SUBMISSION DOCUMENT
+
+================================================================================
+TERALEADS TEST PROJECT
+================================================================================
+
+• This is a web application that shows Google reviews for different places in a sliding carousel format that moves automatically
+• The application gets reviews from Google Places API which is a service that provides information about businesses and locations
+• I have added reference images in the Screenshots folder to show how the application looks on different devices
+• The app comes with popular places already set up so you can test it right away without any setup
+• It uses PHP backend to handle Google Places API calls and avoid CORS issues because calling directly from JavaScript without any package like Express won't work due to security reasons
+• The design works well on both mobile phones and desktop computers as requested in the original document
+• It has carousel navigation with arrow buttons and pagination dots so users can control the movement
+• It can work with any Google Place ID from anywhere in the world
+• The carousel moves by itself every 5 seconds to show different reviews continuously
+• Users can also move the carousel manually using the arrow buttons or pagination dots
+• On mobile phones it shows 2 items in each row while on desktop computers it shows 4 items in each row as specified
+• The server-side API calls prevent Google Places API security errors that would normally occur
+• It comes with popular Dubai locations like Dubai Mall and Burj Khalifa already set up for testing purposes
+
+For execution instructions, please follow the README.md file.
+
+================================================================================
+WP TERALEADS PROJECT
+================================================================================
+
+• This is a WordPress website with custom plugins for Google reviews and dental services made by origin builder.
+• Uses SiteOrigin Page Builder for easy layout creation and customization.
+• Has a Google Reviews widget plugin that displays customer reviews in same format as given in the task.
+• Includes a dental implant services page with some valid images and dummy content n prices.
+• All plugins are properly installed and configured for immediate use.
+• Sample dental images are included in the uploads folder.
+• Access the website through your WordPress URL
+http://[::]:8000/index.php/google-review/
+http://[::]:8000/index.php/dental-implant-services/
+• Reference screenshots show how the pages should look when properly set up and check readme.md to setup the project
+
+For more details, see the README.md file.
+
+================================================================================
+SUBMISSION SUMMARY
+================================================================================
+
+This submission includes two complete projects:
+
+1. TERALEADS TEST PROJECT - A responsive web application with Google Reviews carousel
+2. WP TERALEADS PROJECT - A WordPress website with custom plugins and dental services
+
+Both projects are fully functional and ready for testing. Please refer to the respective README.md files for setup and execution instructions.
